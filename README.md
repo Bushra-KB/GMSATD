@@ -54,3 +54,11 @@ your-repo-name/
 3. Run the jar file using the command:
    ```sh
    java -jar GMSATD.jar
+
+## Snapshots
+Here are some snapshots of the system in action:
+![System Snapshot 1](snapshots/snapshot1.png) 
+![System Snapshot 2](snapshots/snapshot2.png)
+
+## License
+[Specify your license here]
