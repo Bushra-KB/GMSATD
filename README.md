@@ -57,7 +57,7 @@ your-repo-name/
 
 ## Snapshots
 Here are some snapshots of the system in action:
-![System Snapshot 1](/snapshots/snap1.jpg) 
+![System Snapshot 1](https://github.com/Bushra-KB/GMSATD/snapshots/snap1.jpg) 
 ![System Snapshot 2](/snapshots/snapshot2.png)
 
 ## License
