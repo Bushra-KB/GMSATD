@@ -1,7 +1,5 @@
 # GMSATD 1.0
-This is my MSc thesis project. For now, I have made my source code private, as it has not been presented for the final defense. I will provide all files once I have presented and obtained permissions from the school. Keep in touch!
-Thank you.
-
+This is my MSc thesis project. Currently, the source code is private as it has yet to be presented for the final defense. I will make all files available once I have presented and received the necessary permissions from the school. Stay tuned, and thank you for your understanding!
 
 ## Title _"A GENERIC MULTITASK SUMMARIZER FOR AMHARIC TEXT DOCUMENTS"_
 
