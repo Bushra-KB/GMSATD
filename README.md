@@ -61,4 +61,4 @@ Here are some snapshots of the system in action:
 ![System Snapshot 2](snapshots/snapshot2.png)
 
 ## License
-[Specify your license here]
+This project is licensed under **the GNU General Public License v3.0**.
