@@ -57,8 +57,8 @@ your-repo-name/
 
 ## Snapshots
 Here are some snapshots of the system in action:
-![System Snapshot 1](snapshots/snap1.jpg) 
-![System Snapshot 2](snapshots/snapshot2.png)
+![System Snapshot 1](/snapshots/snap1.jpg) 
+![System Snapshot 2](/snapshots/snapshot2.png)
 
 ## License
 This project is licensed under **the GNU General Public License v3.0**.
