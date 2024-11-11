@@ -26,6 +26,26 @@ The global architecture of GMSATD consists of five major modules:
 Each summarization task and technique is parameterizable through user settings. Different instantiations of GMSATD are implemented to accommodate various summarization tasks.
 
 ## Project Structure
+```
+your-repo-name/
+│
+├── README.md
+├── GMSATD/
+│   ├── lib/
+│   ├── GMSATD.jar
+│   └── README.txt
+├── snapshots/
+│   ├── snapshot1.png
+│   ├── snapshot2.png
+│   └── ...
+├── JRE/
+│   └── jre1.8/
+│       ├── bin/
+│       ├── lib/
+│       └── ...
+└── LICENSE
+```
+
 - `GMSATD.jar`: The executable jar file containing the source code.
 - `snapshots/`: Directory containing snapshots of the system.
 - `JRE/`: Directory containing the required Java Runtime Environment (JRE) 1.8.
