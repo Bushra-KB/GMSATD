@@ -25,7 +25,7 @@ Each summarization task and technique is parameterizable through user settings. 
 
 ## Project Structure
 ```
-your-repo-name/
+GMSATD/
 │
 ├── README.md
 ├── GMSATD/
@@ -33,9 +33,10 @@ your-repo-name/
 │   ├── GMSATD.jar
 │   └── README.txt
 ├── snapshots/
-│   ├── snapshot1.png
-│   ├── snapshot2.png
-│   └── ...
+│   ├── snap1.JPG
+│   ├── snap2.JPG
+│   ├── snap3.JPG
+│   └── snap4.JPG
 ├── JRE/
 │   └── jre1.8/
 │       ├── bin/
